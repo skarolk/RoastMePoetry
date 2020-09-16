@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<nav
+  className="navbar navbar-expand navbar-dark bg-dark sticky-top"
+>
+  <a
+    className="navbar-brand"
+    href="#home"
+  >
+    <img
+      alt=""
+      className="d-inline-block align-top"
+      height="30"
+      src="https://react-bootstrap.github.io/logo.svg"
+      width="30"
+    />
+     
+    RoastMePoetry
+  </a>
+  <div
+    className="justify-content-end navbar-nav"
+    onKeyDown={[Function]}
+    style={
+      Object {
+        "width": "100%",
+      }
+    }
+  >
+    <button
+      className="btn btn-outline-info"
+      disabled={false}
+      type="button"
+    >
+      Buy Now
+    </button>
+  </div>
+</nav>
+`;
